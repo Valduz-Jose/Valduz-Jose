@@ -21,8 +21,28 @@
 **📄 Conecta conmigo en LinkedIn:** [linkedin.com/in/alejandro-valduz](https://www.linkedin.com/in/alejandro-valduz-5b6909141)
 
 <br>
+<br />
 
-## 🏆 Liderazgo y Gestión de Proyectos
+<h2>🚀 Proyecto Destacado</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Stack" />
+    </td>
+    <td>
+      <strong>OdontoUNET v1.0</strong><br />
+      Sistema integral de gestión odontológica con arquitectura MVC y seguridad JWT. 
+      <br />
+      <a href="https://github.com/Valduz-Jose/OdontoUnet_v1.0">
+        <strong>Ver Repositorio ↗️</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+ 🏆 Liderazgo y Gestión de Proyectos
 
 <p align="left">
 <strong>Fundador y Director General – Hello World Cup</strong><br>
