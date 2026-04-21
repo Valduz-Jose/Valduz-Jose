@@ -1,111 +1,95 @@
-# Hola, soy José Alejandro Valduz Contreras👋
+# Hola, soy José Alejandro Valduz Contreras 👋
 
-### Ingeniero Informático | Desarrollador Full Stack | Fundador de Hello World Cup 🏆
-
-<br>
-
-## Sobre Mí
+### Ingeniero Informático | Desarrollador Full Stack | Python Developer🐍
 
 <p align="left">
-  Desde niño sentí una gran curiosidad por la tecnología, desde los videojuegos hasta cómo funcionaban los aparatos electrónicos. Esa pasión por entender "cómo se hacen las cosas" me llevó a la programación, donde descubrí que podía construir herramientas para innovar y optimizar el día a día.
+  <strong>Ingeniero Informático egresado de la UNET</strong> con pasión por resolver problemas complejos a través del código. Mi enfoque va desde la lógica robusta del Backend hasta la interactividad del Frontend, siempre buscando eficiencia y escalabilidad. 
   <br><br>
-  Como <strong>Ingeniero Informático egresado de la UNET</strong>, me apasiona resolver problemas complejos. Mi objetivo es aplicar mis habilidades para desarrollar aplicaciones eficientes, escalables y que aporten un valor real a los usuarios.
-  <br><br>
-  Fuera del mundo del código, disfruto de la vida en mi granja y me encanta viajar para conocer los pueblos, ríos y montañas de mi querida Venezuela. 🇻🇪
+  Recientemente especializado en el <strong>Ecosistema Python</strong> (+114 horas de formación intensiva), dominando frameworks como <strong>Django, FastAPI y Flask</strong>, junto a integraciones modernas con <strong>React y Angular</strong>.
 </p>
 
-<br>
+**📫 Contáctame:** [jose.valduz@unet.edu.ve](mailto:jose.valduz@unet.edu.ve)  
+**📄 Conecta conmigo:** [linkedin.com/in/alejandro-valduz](https://www.linkedin.com/in/alejandro-valduz-5b6909141)
 
-**📫 Contáctame:** [jose.valduz@unet.edu.ve](mailto:jose.valduz@unet.edu.ve)
-<br>
-**📄 Conecta conmigo en LinkedIn:** [linkedin.com/in/alejandro-valduz](https://www.linkedin.com/in/alejandro-valduz-5b6909141)
+---
 
-<br>
-<br />
-
-<h2>🚀 Proyecto Destacado</h2>
+## 🚀 Proyectos Destacados
 
 <table>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Stack" />
-    </td>
-    <td>
-      <strong>OdontoUNET v1.0</strong><br />
-      Sistema integral de gestión odontológica con arquitectura MVC y seguridad JWT. 
+    <td width="50%">
+      <strong>Full Stack: Biblioteca Personal 📚</strong><br />
+      <em>FastAPI + React + MySQL</em><br />
+      Sistema moderno de gestión con API asíncrona y frontend reactivo.
       <br />
-      <a href="https://github.com/Valduz-Jose/OdontoUnet_v1.0">
-        <strong>Ver Repositorio ↗️</strong>
-      </a>
+      <a href="https://github.com/Valduz-Jose/biblioteca_fastapi"><strong>Ver Repositorio Backend↗️</strong></a>
+      <a href="https://github.com/Valduz-Jose/biblio-react"><strong>Ver Repositorio Frontend↗️</strong></a>
+    </td>
+    <td width="50%">
+      <strong>OdontoUNET v1.0 🦷</strong><br />
+      <em>React + Node.js + MongoDB</em><br />
+      Gestión odontológica integral con seguridad JWT y arquitectura MVC.
+      <br />
+      <a href="https://github.com/Valduz-Jose/OdontoUnet_v1.0"><strong>Ver Repositorio ↗️</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Django Songs CRUD 🎵</strong><br />
+      <em>Python + Django + PostgreSQL</em><br />
+      Aplicación completa de gestión de medios con renderizado en servidor.
+      <br />
+      <a href="https://github.com/Valduz-Jose/Ap_Django_songs"><strong>Ver Repositorio ↗️</strong></a>
+    </td>
+    <td width="50%">
+      <strong>RRHH Full Stack 👥</strong><br />
+      <em>Flask + Angular + MySQL</em><br />
+      Panel administrativo para gestión de empleados y nómina.
+      <br />
+      <a href="https://github.com/Valduz-Jose/Backend-RH-Django"><strong>Ver Repositorio Backend↗️</strong></a>
+      <a href="https://github.com/Valduz-Jose/Frontend-RH-React"><strong>Ver Repositorio Frontend↗️</strong></a>
     </td>
   </tr>
 </table>
 
-<br />
- 🏆 Liderazgo y Gestión de Proyectos
+---
 
-<p align="left">
-<strong>Fundador y Director General – Hello World Cup</strong><br>
-Lideré la creación y ejecución de uno de los eventos tecnológicos más disruptivos de la región, integrando la competición técnica con el ecosistema emprendedor.
-</p>
+## 🏆 Liderazgo y Gestión
 
-* **Impacto Masivo:** Coordiné un evento con más de **1,000 asistentes** y una competencia de programación con **100 desarrolladores** compitiendo simultáneamente.
-* **Gestión de Equipos:** Dirigí un equipo multidisciplinario de **20 personas** en áreas de Logística, Desarrollo, Marketing, Patrocinios y Seguridad.
-* **Networking:** Gestioné alianzas estratégicas con patrocinadores y emprendedores para presentaciones en vivo y exhibiciones comerciales.
+**Fundador y Director General – Hello World Cup**
+* **Impacto:** Coordiné un evento tecnológico para **+1,000 asistentes** con una competencia simultánea de **100 desarrolladores**.
+* **Gestión:** Lideré un equipo multidisciplinario de **20 personas**.
 
-<br>
+<img width="2560" height="1920" alt="IMG-20250801-WA0021" src="https://github.com/user-attachments/assets/3db3e34d-f41e-40b9-9a54-7b58afefe82e" />
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
-<p align="center">Estas son algunas de las tecnologías y herramientas con las que he trabajado:</p>
-<br>
+
+---
+
+## 🛠️ Stack Tecnológico
+
 <div align="center">
-  <strong>Lenguajes de Programación</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,php,c,cpp,cs" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <strong>Desarrollo Frontend</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,sass,bootstrap,tailwind" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <strong>Desarrollo Backend</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <strong>Bases de Datos</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <strong>Herramientas y Control de Versiones</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
+
+**Lenguajes & Backend** [![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,java,php,cpp,cs)](https://skillicons.dev)
+
+**Frontend & Mobile** [![My Skills](https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap,sass)](https://skillicons.dev)
+
+**Bases de Datos & Herramientas** [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,vscode,docker)](https://skillicons.dev)
+
 </div>
 
-<br>
+---
 
-<h2 align="center">📊 Mis Estadísticas en GitHub</h2>
+## 📊 Estadísticas
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Valduz-Jose&show_icons=true&locale=es&theme=tokyonight&cache_seconds=86400" alt="Estadísticas de GitHub de José Valduz" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valduz-Jose&layout=compact&locale=es&theme=tokyonight&cache_seconds=86400" alt="Lenguajes más usados por José Valduz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valduz-Jose&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de José Valduz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valduz-Jose&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
-<br>
+---
 
 ## 🌱 Mi Enfoque Actual
+Actualmente estoy enfocado en el desarrollo de **Arquitecturas de Microservicios** y aplicaciones **Full Stack de alto rendimiento**. Mi objetivo es integrarme a un equipo donde pueda aplicar mi capacidad de liderazgo y mi dominio técnico para crear productos que impacten positivamente.
 
-<p align="left">
-  Actualmente estoy profundizando mis conocimientos en tecnologías para el desarrollo mobile y arquitecturas escalables. Mi meta es conseguir una oportunidad laboral como <strong>Desarrollador Full Stack</strong> donde pueda contribuir a proyectos desafiantes y seguir creciendo profesionalmente en equipos de alto rendimiento.
+<p align="center">
+  <i>"Fuera del código, me encuentras en mi granja o recorriendo las montañas de mi Venezuela 🇻🇪"</i>
 </p>
